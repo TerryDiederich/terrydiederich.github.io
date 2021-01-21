@@ -1,5 +1,3 @@
-# terrydiederich.github.io
-
-Home Page
+# Home Page
 
 [Other File](other.md)
